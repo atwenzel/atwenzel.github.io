@@ -1,0 +1,22 @@
+.menu{
+	position: fixed;
+    top: 0;
+    width: 100%;
+	list-style-type: none;
+	background-color: #4053CC;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.menuli {
+    float: left;
+}
+
+.menulinks {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 18px 16px;
+    text-decoration: none;
+}
