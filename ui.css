@@ -23,3 +23,11 @@ body{
     padding: 18px 16px;
     text-decoration: none;
 }
+
+.content{
+	padding-top: 2%;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: #0D88FF;
+	height: 100%;
+}
