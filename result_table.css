@@ -1,0 +1,50 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,500,700,300,100);
+
+body {
+    font-family: "Roboto", helvetica, arial, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    width: 75%;
+    border-width: 10px;
+    border-color: white;
+    background-color: #e5e7ea;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+TH {
+    text-align: center;
+    padding: 8px;
+    font-size: 18px;
+}
+
+.first-header {
+    text-align: left;
+    font-size: 20px;
+    padding-left: 70px;
+}
+
+TD {
+    border-top: 4px solid #000000;
+    text-align: center;
+    padding: 3px;
+}
+
+.TD-left {
+    border-right: 3px solid #aaaaaa;
+}
+
+.TD-center {
+    border-left: 3px solid #aaaaaa;
+    border-right: 3px solid #aaaaaa;
+}
+
+.TD-right {
+    border-left: 3px solid #aaaaaa;
+}
+
+TR:hover TD {
+    background-color: #ffa3a3;
+}
