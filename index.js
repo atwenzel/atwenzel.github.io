@@ -12,4 +12,5 @@ submit_b.onclick = function(e) {
     xhr.open("POST", url, true)
     xhr.setRequestHeader("Content-type", "application/json");
     xhr.send(JSON.stringify(obj))
+    alert("Your response was submitted")
 };
