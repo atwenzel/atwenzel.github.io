@@ -1,0 +1,29 @@
+li {                                                                                                                               
+    display: inline-block;                                                                                                         
+    text-align: center;                                                                                                            
+}                                                                                                                                  
+                                                                                                                                   
+ul {                                                                                                                               
+    white-space: nowrap;                                                                                                           
+}
+
+.infobox {
+    background-color: #e5e7ea;
+    height: 10%;
+    width: 90%;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 37px;
+    text-align: left;
+    text-padding-left: 20px;
+}
+
+#capsbox {
+    /*margin-left: 20px;
+    margin-right: 20px;*/
+}
+
+
+#meditationbox {
+    
+}

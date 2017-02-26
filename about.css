@@ -1,0 +1,8 @@
+li {                                                                                                                               
+    display: inline-block;                                                                                                         
+    text-align: center;                                                                                                            
+}                                                                                                                                  
+                                                                                                                                   
+ul {                                                                                                                               
+    white-space: nowrap;                                                                                                           
+}

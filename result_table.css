@@ -48,3 +48,12 @@ TD {
 TR:hover TD {
     background-color: #ffa3a3;
 }
+
+li {                                                                                                                               
+    display: inline-block;                                                                                                         
+    text-align: center;                                                                                                            
+}                                                                                                                                  
+                                                                                                                                   
+ul {                                                                                                                               
+    white-space: nowrap;                                                                                                           
+}
