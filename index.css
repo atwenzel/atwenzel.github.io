@@ -32,12 +32,17 @@ h2{
 	font-size: 30px;
 	margin: 15px;
 	width: 300px;
+    appearance: button;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    text-decoration: none;
+    color: black;
 }
 
 .question{
 	padding-top: 5px;
 	text-align: center;
-	padding-bottom: 5px;
+	padding-bottom: 35px;
 }
 .slider{
 	padding-left: 20%;
