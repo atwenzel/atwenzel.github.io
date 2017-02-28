@@ -1,36 +1,9 @@
 
-#clockdiv{
-	font-family: sans-serif;
-	color: #f4df42;
-	display: inline-block;
-	font-weight: 100;
-	text-align: center;
-	font-size: 30px;
-}
-
-#clockdiv > div{
-	padding: 10px;
-	border-radius: 3px;
-	background: #f4ac41;
-	display: inline-block;
-}
-
-#clockdiv div > span{
-	padding: 15px;
-	border-radius: 3px;
-	background: #A9A9A9;
-	display: inline-block;
-}
-
-.smalltext{
-	padding-top: 5px;
-	font-size: 16px;
-}
 
 h1{
 	font-family: "Verdana", sans-serif;
-	color: #A9A9A9;	
-	font-size: 40px;
+	color: #B0B286;	
+	font-size: 80px;
 	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
