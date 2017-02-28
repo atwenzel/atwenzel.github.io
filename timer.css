@@ -1,0 +1,66 @@
+
+#clockdiv{
+	font-family: sans-serif;
+	color: #f4df42;
+	display: inline-block;
+	font-weight: 100;
+	text-align: center;
+	font-size: 30px;
+}
+
+#clockdiv > div{
+	padding: 10px;
+	border-radius: 3px;
+	background: #f4ac41;
+	display: inline-block;
+}
+
+#clockdiv div > span{
+	padding: 15px;
+	border-radius: 3px;
+	background: #A9A9A9;
+	display: inline-block;
+}
+
+.smalltext{
+	padding-top: 5px;
+	font-size: 16px;
+}
+
+#welcome{
+	text-align: center;
+
+}
+
+h2{
+	font-family: "Verdana", sans-serif;
+	color: white;	
+	font-size: 20px;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#submit{
+	font-size: 30px;
+	margin: 15px;
+	width: 300px;
+    appearance: button;
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    text-decoration: none;
+    color: black;
+}
+
+.question{
+	padding-top: 5px;
+	text-align: center;
+	padding-bottom: 35px;
+}
+
+li {
+    display: inline-block;
+    text-align: center;
+}
+
+ul {
+    white-space: nowrap;
+}
